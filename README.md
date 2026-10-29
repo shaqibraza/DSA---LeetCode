@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0658-find-k-closest-elements](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0374-guess-number-higher-or-lower](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0704-binary-search) |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
