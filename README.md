@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0658-find-k-closest-elements](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Sliding Window
 |  |
 | ------- |
