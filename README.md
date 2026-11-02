@@ -74,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0981-time-based-key-value-store) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
