@@ -3,12 +3,7 @@
  * @return {number}
  */
 var minMoves = function(nums) {
-    let max = nums[0];
-    for(let num of nums){
-        if(num > max){
-            max = num;
-        }
-    }
+    let max = Math.max(...nums);
 
     let ans = 0;
     for(let num of nums){
