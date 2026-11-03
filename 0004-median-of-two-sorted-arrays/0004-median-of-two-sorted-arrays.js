@@ -4,34 +4,40 @@
  * @return {number}
  */
 var findMedianSortedArrays = function(nums1, nums2) {
-    const result = [];
+    if(nums1.length > nums2.length){
+        [nums1, nums2] = [nums2, nums1];
+    }
 
-    let i = 0;
-    let j = 0;
-    while(i < nums1.length && j < nums2.length){
-        if(nums1[i] <= nums2[j]){
-            result.push(nums1[i]);
-            i++;
-        }else{
-            result.push(nums2[j]);
-            j++;
+    const m = nums1.length;
+    const n = nums2.length;
+
+    let low = 0;
+    let high = m;
+
+    const half = Math.floor((m + n + 1) / 2);
+
+    while(low <= high){
+        const i = Math.floor((low + high) / 2);
+        const j = half - i;
+
+        const left1 = i === 0 ? -Infinity : nums1[i - 1];
+        const right1 = i === m ? Infinity : nums1[i];
+
+        const left2 = j === 0 ? -Infinity : nums2[j - 1];
+        const right2 = j === n ? Infinity : nums2[j];
+
+        if(left1 <= right2 && left2 <= right1){
+            if((m + n) % 2 === 1){
+                return Math.max(left1, left2);
+            }
+
+            return (Math.max(left1, left2) + Math.min(right1, right2)) / 2;
         }
-    }
 
-    while(i < nums1.length){
-        result.push(nums1[i]);
-        i++;
-    }
-
-    while(j < nums2.length){
-        result.push(nums2[j]);
-        j++;
-    }
-
-    const mid = Math.floor(result.length / 2);
-    if(result.length % 2 === 1){
-        return result[mid];
-    }else{
-        return (result[mid] + result[mid - 1]) / 2; 
+        if(left1 > right2){
+            high = i - 1;
+        }else{
+            low = i + 1;
+        }
     }
 };
