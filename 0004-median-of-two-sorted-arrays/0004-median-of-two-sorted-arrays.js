@@ -28,11 +28,10 @@ var findMedianSortedArrays = function(nums1, nums2) {
         j++;
     }
 
+    const mid = Math.floor(result.length / 2);
     if(result.length % 2 === 1){
-        const mid = Math.floor(result.length / 2);
         return result[mid];
     }else{
-        const mid = Math.floor(result.length / 2);
         return (result[mid] + result[mid - 1]) / 2; 
     }
 };
