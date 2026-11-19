@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0141-linked-list-cycle) |
 | [0658-find-k-closest-elements](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0141-linked-list-cycle) |
 | [0981-time-based-key-value-store](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0410-split-array-largest-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
