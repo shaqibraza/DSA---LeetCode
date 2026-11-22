@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0981-time-based-key-value-store) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/shaqibraza/DSA---LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Design
 |  |
 | ------- |
