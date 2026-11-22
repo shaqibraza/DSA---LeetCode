@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0704-binary-search) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -131,8 +134,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0143-reorder-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
