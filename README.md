@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0622-design-circular-queue](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0622-design-circular-queue) |
 | [0981-time-based-key-value-store](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Linked List
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/shaqibraza/DSA---LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
