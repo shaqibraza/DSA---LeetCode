@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0622-design-circular-queue](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shaqibraza/DSA---LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0143-reorder-list) |
+| [0682-baseball-game](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0682-baseball-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -170,5 +172,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0682-baseball-game) |
 | [3360-stone-removal-game](https://github.com/shaqibraza/DSA---LeetCode/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
