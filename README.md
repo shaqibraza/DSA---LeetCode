@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0020-valid-parentheses) |
 | [0981-time-based-key-value-store](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0981-time-based-key-value-store) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/shaqibraza/DSA---LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Design
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0143-reorder-list) |
 | [0682-baseball-game](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0682-baseball-game) |
 ## Bit Manipulation
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0682-baseball-game) |
 | [3360-stone-removal-game](https://github.com/shaqibraza/DSA---LeetCode/tree/master/3360-stone-removal-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
