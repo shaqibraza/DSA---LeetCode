@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0069-sqrtx) |
+| [3360-stone-removal-game](https://github.com/shaqibraza/DSA---LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/shaqibraza/DSA---LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shaqibraza/DSA---LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Newton's Method
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0622-design-circular-queue) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/shaqibraza/DSA---LeetCode/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
