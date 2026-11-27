@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0622-design-circular-queue) |
 | [0981-time-based-key-value-store](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Linked List
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0682-baseball-game) |
 ## Bit Manipulation
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0622-design-circular-queue) |
 ## Simulation
 |  |
