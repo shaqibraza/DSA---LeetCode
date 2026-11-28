@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3360-stone-removal-game](https://github.com/shaqibraza/DSA---LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/shaqibraza/DSA---LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shaqibraza/DSA---LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0232-implement-queue-using-stacks) |
