@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shaqibraza/DSA---LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/shaqibraza/DSA---LeetCode/tree/master/1095-find-in-mountain-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0735-asteroid-collision) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/shaqibraza/DSA---LeetCode/tree/master/0735-asteroid-collision) |
 | [3360-stone-removal-game](https://github.com/shaqibraza/DSA---LeetCode/tree/master/3360-stone-removal-game) |
 ## Bracket Sequences
 |  |
